@@ -1,2 +1,2 @@
 Learning GIT and having fun
-
+Adding some more things in master and commiting on MASTER
