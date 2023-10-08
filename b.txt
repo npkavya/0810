@@ -1,2 +1,2 @@
-Creating b.txt file in branch B1
+Creating b.txt file in branch B1 --Changing in B1 again
 
